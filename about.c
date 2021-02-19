@@ -1,6 +1,2 @@
-#include<stdio.h>
-void main()
-{
-printf("HEllo");
-}
+print("Hi")
 
